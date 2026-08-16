@@ -1,186 +1,262 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Asif%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Enthusiast&descAlignY=62&descSize=16)](https://github.com/MohammedAsif33)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🔒+Cybersecurity+%26+Blue+Team+Specialist;📊+SOC+Analyst+Level+1+Aspirant;🛡️+Threat+Detection+%26+Incident+Response;🧑‍💻+Passionate+About+Network+Defence)](https://github.com/MohammedAsif33)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Asif%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Java%20Developer&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+secure+scalable+systems;Java+%2F+Spring+Boot+Developer;Blue+Team+Security+Operations;Network+Engineering+%26+Linux+CLI" alt="Typing SVG" />
+
+<br/>
+
+![BCA](https://img.shields.io/badge/BCA-Computer%20Applications-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/based%20in-Palani%2C%20Tamil%20Nadu-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MohammedAsif33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohammed33)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2633asif@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAsif33)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedAsif33&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/MohammedAsif33?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/MohammedAsif33?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" align="right" alt="Coding GIF"/>
+## 🧠 About Me
 
-```java
-public class MohammedAsif {
-    
-    private String name = "Mohammed Asif S";
-    private String location = "Palani, Tamil Nadu, India";
-    private String degree = "Bachelor of Computer Applications (BCA)";
-    private String[] skills = {"Cybersecurity", "Network Defence", "Incident Response", 
-                              "Wireshark", "Snort IDS", "Java", "Spring Boot"};
-    private String[] currentlyLearning = {"Advanced Threat Hunting", "SIEM Tools", 
-                                         "Malware Analysis", "Cloud Security"};
-    
-    public String funFact() {
-        return "I love analyzing network packets and catching sneaky threats! 🎯";
-    }
-    
-    public void motto() {
-        System.out.println("Security is not about prevention, it's about detection & response!");
-    }
-}
+<div align="center">
+
+```yaml
+name: Mohammed Asif S
+role: Software Engineer · Cybersecurity Enthusiast · Java Developer
+focus: Building secure, scalable backend systems with strong networking foundations
+mindset: Defense-in-depth engineering with clean code craftsmanship
 ```
 
----
+</div>
 
-## 🛠️ **Tech Stack**
+I'm a BCA graduate (2025) with a strong foundation in **networking**, **cybersecurity**, and **backend development**. I've built a Java/Spring Boot phishing detection system end-to-end, integrating ML models for real-time URL classification. My internship experience in Blue Team operations (alert triage, log analysis, Snort rules, Wireshark) has given me practical security operations experience.
 
-### 💻 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+I care about writing clean, maintainable code and designing systems with security as a first-class concern — from network-level defenses to application-layer protections.
 
-### 🔐 **Cybersecurity Tools**
-![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=flat-square&logo=wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort%20IDS-FF6B35?style=flat-square&logo=snort&logoColor=white)
-![Ettercap](https://img.shields.io/badge/Ettercap-1F1F1F?style=flat-square&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-
-### 🏗️ **Frameworks & Databases**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-### 📚 **Cybersecurity Frameworks**
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-EB3B5A?style=flat-square&logo=security&logoColor=white)
-![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-1F77B4?style=flat-square&logo=shield&logoColor=white)
-
-### 🖥️ **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+**🔭 Open To:** Software Engineering roles · Cybersecurity Analyst/Engineer roles · Backend Development (Java/Spring Boot) · Network Security roles · Open-source collaboration · Freelance/contract work
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAsif33&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/MohammedAsif33)
+**Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAsif33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/MohammedAsif33)
+![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Bash](https://skillicons.dev/icons?i=bash)
+
+**Backend & Databases**
+
+![Spring Boot](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+**Networking & Security**
+
+![Linux](https://skillicons.dev/icons?i=linux) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-EF2D5E?style=flat-square&logo=snort&logoColor=white) ![Git](https://skillicons.dev/icons?i=git)
+
+**Cloud, DevOps & Tooling**
+
+![Docker](https://skillicons.dev/icons?i=docker) ![VMware](https://skillicons.dev/icons?i=vmware) ![GitHub](https://skillicons.dev/icons?i=github)
 
 </div>
 
 ---
 
-## 🔥 **Contribution Streak**
+## 🔐 Cybersecurity Expertise
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohammedAsif33&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/MohammedAsif33)
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Network Security | ⭐⭐⭐⭐⭐ | TCP/IP stack, OSI model, IPv4 subnetting, DNS, DHCP, router/switch fundamentals |
+| Blue Team Operations | ⭐⭐⭐⭐☆ | Alert triage, log analysis, incident documentation, shift handover, PCAP analysis |
+| Threat Detection | ⭐⭐⭐⭐☆ | Snort rule writing, signature-based alerting, anomaly detection with Wireshark |
+| Security Frameworks | ⭐⭐⭐⭐☆ | MITRE ATT&CK, NIST CSF, ISO 27001, CIA triad, defense-in-depth |
+| Email Security | ⭐⭐⭐☆☆ | SPF/DKIM/DMARC, email header analysis, phishing recognition |
+| Secure Coding | ⭐⭐⭐⭐☆ | Input sanitization, secure REST APIs, OAuth2, rate limiting |
 
 </div>
 
 ---
 
-## 📈 **Activity Graph**
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedAsif33&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MohammedAsif33)
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MohammedAsif33&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/MohammedAsif33)
-
-</div>
-
----
-
-## 💼 **Work Experience**
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🔐 Cyber Security Intern @ Stellaraa Edutech Pvt Ltd</b> | <i>May 2025 - June 2025</i> | Remote</summary>
+<summary><b>🔹 Real-Time Phishing Site Detection System</b></summary>
+<br/>
 
-> **Tech Stack:** `Incident Response` `Threat Detection` `Blue Team Operations` `Log Analysis`
+A full-stack backend REST API that classifies malicious URLs in real-time using a pre-trained Random Forest ML model integrated with Java Spring Boot.
 
-- ✅ Successfully completed certified 1-month Career Internship in Cyber Security (Certification No. 19072030)
-- 🎓 Gained hands-on exposure to thread identification, mitigation techniques, and Blue Team operations under Skill India & ISO-certified program
-- 🛡️ Practiced real-world incident response procedures and threat assessment methodologies
-- 📊 Developed understanding of modern SOC operations and log analysis workflows
+| Attribute | Detail |
+|---|---|
+| **Stack** | Java, Spring Boot, MySQL, Python (scikit-learn), Random Forest |
+| **Architecture** | REST API with ML model serialization, feature extraction pipeline |
+| **Performance** | 90%+ accuracy on local test sets, low-latency inference |
+| **Security** | Input sanitization, URL validation, rate limiting |
+| **Deployment** | Local Spring Boot deployment with MySQL persistence |
+| **Repository** | [github.com/MohammedAsif33/phishing-detection](https://github.com/MohammedAsif33/phishing-detection) |
+
+Built end-to-end: data preprocessing → feature extraction from URLs → model training & serialization → Spring Boot integration → REST API with real-time classification. Emphasis on secure coding practices and production-ready architecture.
 
 </details>
 
 ---
 
-## 🚀 **Featured Projects**
+## 💼 Experience
 
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| **Real-Time Phishing Site Detection System** | `Java` `Spring Boot` `Machine Learning` `Random Forest` | • Engineered backend for real-time malicious URL classification<br/>• Integrated pre-trained Random Forest ML model into Java Spring Boot<br/>• Achieved **90%+ accuracy** in distinguishing legitimate vs. phishing domains<br/>• Feature extraction on URL length & special characters without blacklists |
-| **Network Traffic & Packet Analysis** | `Wireshark` `Ettercap` `Snort IDS` | • Deep-dive analysis of network traffic for security breach identification<br/>• Captured & analyzed TCP/UDP handshakes using Wireshark<br/>• Configured Snort rules for signature-based attack detection<br/>• Identified plain-text data leakage and generated alerts for suspicious flows |
+**Cyber Security Intern** · STELLARAA EDUTECH PVT LTD (Remote)
+`May 2025 – Jun 2025`
 
----
+Completed 1-month ISO/Skill India certified internship (Cert #19072030) focused on Blue Team operations.
 
-## 🏅 **Certifications & Achievements**
+- Practiced alert triage workflow, log review basics, incident documentation, shift handover notes
+- Wrote basic Snort rules for signature-based alerting
+- Analyzed PCAPs in Wireshark for anomaly detection
+- Gained hands-on experience with security monitoring and incident response processes
 
-| 🎯 | Achievement | Details |
-|----|-------------|---------|
-| 🥇 | **Certified Cyber Security Intern** | Stellaraa Edutech Pvt Ltd (Certification No. 19072030) - Skill India & ISO-Certified |
-| 📜 | **Networking Basics** | Cisco Networking Academy (2025) |
-| 📜 | **Ethical Hacking** | Cisco Networking Academy (2025) |
-| 📜 | **Network Defence** | Cisco Networking Academy (2025) |
-| 📜 | **Fundamentals of Cybersecurity** | IBM SkillBuild (2025) |
-| ⭐ | **90%+ Phishing Detection Accuracy** | Real-Time Detection System - Production-Ready Model |
+`Linux CLI` `Wireshark` `Snort` `Log Analysis` `Incident Response` `Blue Team`
 
----
+<br/>
 
-## 🎓 **Education**
+**Personal Project — Phishing Detection System** · Self-Directed
+`2024 – 2025`
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| **Bachelor of Computer Applications (BCA)** | Arulmigu Palaniandavar College of Arts and Culture, Palani, Tamil Nadu | 2022 - 2025 | 7.43 |
+Built a Java/Spring Boot phishing detection system end-to-end with ML integration.
 
----
+- Designed REST API for real-time URL classification
+- Integrated pre-trained Random Forest model (90%+ accuracy)
+- Implemented feature extraction from URLs, model serialization
+- Applied secure coding practices: input validation, rate limiting, sanitization
 
-## 📚 **Currently Learning**
-
-```
-🧱 Advanced Threat Hunting → Behavioral Analysis | Indicators of Compromise (IoCs)
-🧱 SIEM Tools → Splunk | ELK Stack | Data Parsing
-🧱 Malware Analysis → Static Analysis | Dynamic Sandboxing
-🧱 Cloud Security → AWS IAM | Azure Security | GCP Threats
-🧱 Penetration Testing → Burp Suite | Metasploit Framework
-```
+`Java` `Spring Boot` `MySQL` `Python` `scikit-learn` `ML Integration` `REST API`
 
 ---
 
-## 📞 **Connect With Me**
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifmohammed33)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohammedAsif33)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2633asif@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916374141439)
-
-**Open to opportunities:** SOC Analyst L1 | Blue Team Roles | Cybersecurity | Willing to relocate anywhere in India | Open to night shifts & 24×7 SOC operations
+| Recognition | Details |
+|---|---|
+| 🏅 Cisco Networking Basics | Cisco Networking Academy (2025) — 22h |
+| 🔐 Introduction to Cybersecurity | Cisco Networking Academy (2025) — 6h |
+| ⚔️ Understanding Threats and Attacks | Cisco Networking Academy (2025) — 4h |
+| 🌐 The Cybersecurity Landscape | Cisco Networking Academy (2025) — 3h |
+| 📜 Blue Team Internship | STELLARAA EDUTECH (ISO/Skill India Certified) — Cert #19072030 |
+| 🎓 BCA Graduate | CGPA: 7.43 — Arulmigu Palaniandavar College of Arts and Culture (2025) |
 
 </div>
 
 ---
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/MohammedAsif33)
+## 💻 Coding Profiles
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedAsif33&color=70a5fd&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-MohammedAsif33-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAsif33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asifmohammed33-2F8D46?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohammed33)
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAsif33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAsif33&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAsif33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedAsif33&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAsif33&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohammedAsif33/MohammedAsif33/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced network security & penetration testing
+  - Cloud security (AWS/GCP) and container security
+  - SIEM & SOAR platforms (Splunk, Elastic, Wazuh)
+  - Rust for systems programming
+building:
+  - Expanding phishing detection with deep learning models
+  - Home lab for network monitoring & threat hunting
+  - Open-source security tools contributions
+exploring:
+  - Malware analysis & reverse engineering basics
+  - Zero Trust architecture implementation
+  - DevSecOps pipeline integration
+open_to:
+  - Cybersecurity Analyst / SOC Analyst roles
+  - Junior Backend Developer (Java/Spring Boot)
+  - Network Security Engineer roles
+  - Security Operations internships
+  - Open-source collaborations
+```
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2633asif@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifmohammed33)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAsif33)
+[![Phone](https://img.shields.io/badge/Phone-8B5CF6?style=for-the-badge&logo=phone&logoColor=white)](tel:+91-6374141439)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Security is not a product, it's a process — build it in from day one."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
